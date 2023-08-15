@@ -12,7 +12,7 @@ it("renders correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       .c5 {
-      color: rgba(1, 83, 255, 0.25);
+      color: rgba(255, 145, 38, 0.25);
       font-size: 16px;
       font-weight: 600;
       line-height: 1.5;
